@@ -1,0 +1,7 @@
+{
+"Sender": "example@gmail.com",
+"Sender Password": "password",
+"Recipent": "example@gmail.com",
+"Message": "SPAM",
+"How Many Times To Send Message": 3
+}
