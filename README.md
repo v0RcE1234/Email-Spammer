@@ -1,4 +1,2 @@
 # Email-Spammer
-A program to spam your friends with emails
-\n
-***ONLY WORKS WITH GMAIL***
+A program to spam your friends with emails***ONLY WORKS WITH GMAIL***
